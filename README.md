@@ -9,14 +9,14 @@ Welcome to the **Wreck-It Ralph Game**! In this repository, you'll discover an e
 
 ### Amazing Features
 
-- **Scoring System**: Track your performance as you progress in the game and challenge your friends to beat it; click on the square where Ralph is located.
+- **Scoring System**: Track your performance as you progress in the game and challenge your friends to beat it.
 
 ### How to Play
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
-3. Use the arrow keys to move the character and the space bar to interact.
-4. Have fun exploring and collecting coins, but stay alert to enemies!
+3. Play using the mouse by clicking where Ralph appears.
+4. Have fun aiming for the highest score before the time runs out!
 
 ### Contribution
 
