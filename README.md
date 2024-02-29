@@ -1,5 +1,5 @@
 ## Wreck-It Ralph Game
-Welcome to the *Wreck-It Ralph Game**! In this repository, you'll discover an engaging experience inspired by the iconic movie "Wreck-It Ralph." This project not only provides entertainment but also showcases various advanced game development techniques in JavaScript.
+Welcome to the **Wreck-It Ralph Game**! In this repository, you'll discover an engaging experience inspired by the iconic movie "Wreck-It Ralph." This project not only provides entertainment but also showcases various advanced game development techniques in JavaScript.
 
 ### Technologies Used
 
